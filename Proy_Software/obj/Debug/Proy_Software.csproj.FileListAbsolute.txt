@@ -1,0 +1,13 @@
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\bin\Debug\Proy_Software.exe.config
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\bin\Debug\Proy_Software.exe
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\bin\Debug\Proy_Software.pdb
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\bin\Debug\Capa_Logica.dll
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\bin\Debug\Capa_Logica.pdb
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.csprojAssemblyReference.cache
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.FrmLogin.resources
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.Menu_Principal.resources
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.Properties.Resources.resources
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.csproj.GenerateResource.cache
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.csproj.CopyComplete
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.exe
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.pdb
