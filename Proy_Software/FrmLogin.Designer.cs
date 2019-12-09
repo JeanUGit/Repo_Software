@@ -1,6 +1,6 @@
 ﻿namespace Proy_Software
 {
-    partial class Form1
+    partial class FrmLogin
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -34,9 +34,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(526, 371);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(313, 320);
+            this.Name = "Log in";
+            this.Text = "Log in";
             this.ResumeLayout(false);
 
         }
