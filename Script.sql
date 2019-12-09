@@ -163,3 +163,5 @@ insert into TblCargo(Descripcion) values('Administrador'),('Estandar');
 insert into  TblFormaDePago(Descripcion) values ('Contado'),('Credito');
 insert into TblMarca(Descripcion) values('Yamaha'),('Honda'),('Suzuki');
 
+
+
