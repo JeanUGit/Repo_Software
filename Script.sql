@@ -158,3 +158,8 @@ foreign key (FKCodigo_TblArticulo) references TblArticulo
 
 
 --INSERCIÓN DE ALGUNAS TABLAS DEBILES--
+insert into TblEstado(Descripcion) values('Activo'),('Inactivo');
+insert into TblCargo(Descripcion) values('Administrador'),('Estandar');
+insert into  TblFormaDePago(Descripcion) values ('Contado'),('Credito');
+insert into TblMarca(Descripcion) values('Yamaha'),('Honda'),('Suzuki');
+
