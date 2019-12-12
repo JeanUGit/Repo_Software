@@ -11,3 +11,6 @@ C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Sof
 C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.csproj.CopyComplete
 C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.exe
 C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.pdb
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\obj\Debug\Proy_Software.FrmReg_Proveedor.resources
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jean carlos\Desktop\soft\Proy_Software\Proy_Software\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

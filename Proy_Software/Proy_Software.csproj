@@ -33,8 +33,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -102,6 +105,17 @@
       <Project>{81c96743-e5f6-4c21-86eb-ae3e3d518562}</Project>
       <Name>Capa_Logica</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imagenes\-.png" />
+    <Content Include="imagenes\cancel_circle_close_delete_discard_file_x_icon_123219.png" />
+    <Content Include="imagenes\icons8-contraseña-32.png" />
+    <Content Include="imagenes\icons8-minimizar-la-ventana-32 %281%29.png" />
+    <Content Include="imagenes\icons8-nombre-de-usuario-32.png" />
+    <Content Include="imagenes\minimizar.png" />
+    <Content Include="imagenes\minimize_thewindow_theapplication_2872.png" />
+    <Content Include="imagenes\windowminimize_104316.png" />
+    <Content Include="imagenes\x.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
